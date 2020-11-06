@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar-1 {
+    background: #2a282894;
+	opacity: 0.8;
+	border-bottom: 3px solid #008ed6;
+	
+}
+#home{
+	background-image: url("../image/1 (dfdf1).jpg");
+	min-height: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center-top;
+}
+.overlay{
+	background: rgba(0, 0, 0, 0.7);
+	min-height: 700px;
+}
+.fff{
+	font-weight: 400;
+}
+
+#home .fa{
+	background: #fff;
+	padding: 10px;
+	font-size: 25px;
+	color: #008ed6;
+	border-radius: 3px;
+}
+
+
+
+
+#explore-main-section{
+  font-size: 30px;
+  background: black;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px; 
+  }
+
+
+#explorelarn .fa{
+	background: black;
+	padding: 10px;
+	font-size: 25px;
+	color: white;
+	border-radius: 3px;
+}
+
+#create{
+  font-size: 30px;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px; 
+  }
+
+
+.main-25{
+	background: white;
+	padding: 10px;
+	font-size: 25px;
+	color: #008ed6;
+	border-radius: 3px;
+}
+
+
+
+#share{
+  font-size: 30px;
+  background: black;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px; 
+  }
+
+
+
+.main-55{
+	 margin-top: 58px;
+}
+
+#what .fa{
+	background: black;
+	padding: 10px;
+	font-size: 25px;
+	color: white;
+	border-radius: 3px;
+}
